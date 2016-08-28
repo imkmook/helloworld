@@ -15,6 +15,8 @@ namespace HelloWorld
             System.Console.WriteLine("Hello World33");
             System.Console.WriteLine("Hello World44");
             System.Console.WriteLine("Hello World55");
+            System.Console.WriteLine("Hello World66");
+            System.Console.WriteLine("Hello World77");
         }
     }
 }
